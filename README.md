@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">An IT passionate software engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Nodejs and Graphql**
 
 - 📫 How to reach me **osmankaradeniz20000@gmail.com**
 
